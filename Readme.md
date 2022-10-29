@@ -4,6 +4,8 @@
 
 
 ![alt text](https://cdn3.emoji.gg/emojis/7991-yippee.gif)
+
+
 A Snake game in PyGame for streamers. It exposes the controller as a rest api so it can be
 controlled from discord, twitch or other live stream chats.
 
